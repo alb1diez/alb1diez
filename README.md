@@ -29,19 +29,6 @@ I am deeply committed to the open-source philosophy and continuous learning, hav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" alt="r logo" />
 </div>
 
-### 📊 Activity & Metrics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alb1diez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alb1diez&theme=dark" height="150" alt="stats card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alb1diez&theme=dark" height="150" alt="languages card" />
-</div>
-
 ### 📬 Connect with me
 
 <div align="left">
